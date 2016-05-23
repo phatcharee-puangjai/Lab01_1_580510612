@@ -1,0 +1,77 @@
+.container {
+    width: 80%;
+    margin: auto;
+    padding: 10px;
+}
+
+.header {
+    font-family: 'Oswald', sans-serif;
+    background-image:url('http://www.enjoylike.com/forum/data/attachment/forum/month_1506/1506072249b503c03fef3dba5e.jpg');
+    text-align: center;
+
+    color: #FFFFFF;
+    
+    text-align: center;
+    font-size: 72px;
+    border-radius: 80px;
+
+}
+
+.table1 {
+    font-family: 'Indie Flower', cursive;
+    font-size: 24px;
+    color: #0787FF;
+    text-align: center;
+    /*ให้ข้อความในกล่องอยู่ตรงกลาง*/
+}
+
+.table2 {
+    font-family: 'Indie Flower', cursive;
+    color: red;
+    background-color: #FF92DF;
+    border-radius: 10px;
+}
+
+.table3 {
+    font-family: 'Indie Flower', cursive;
+    color: #279C17;
+    background-color: #26FF35;
+    border-radius: 10px;
+}
+
+.tablesun {
+    
+    color: #171717;
+    background-color: #FD3939;
+    border-radius: 10px;
+}
+.tablemon {
+    color: #171717;
+    background-color: #EEFC13;
+    border-radius: 10px;
+}
+.tabletue {
+    color: #171717;
+    background-color: #FF79D8;
+    border-radius: 10px;
+}
+.tablewed {
+    color: #171717;
+    background-color: #18FF00;
+    border-radius: 10px;
+}
+.tablethu {
+    color: #171717;
+    background-color: #FF7E00;
+    border-radius: 10px;
+}
+.tablefri {
+    color: #171717;
+    background-color: #72F2FD;
+    border-radius: 10px;
+}
+.tablesat {
+    color: #171717;
+    background-color: #C600FF;
+    border-radius: 10px;
+}
